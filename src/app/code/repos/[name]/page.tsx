@@ -1,5 +1,5 @@
-import Repo from "@/app/components/Repo";
-import RepoDirs from "@/app/components/RepoDirs";
+import Repo from "@/components/Repo";
+import RepoDirs from "@/components/RepoDirs";
 import Link from "next/link";
 import { Suspense } from "react";
 
